@@ -1,38 +1,47 @@
 {
   "name": "Isaac Warren",
   "id": "acd21329-2b99-5bdb-a080-ff15ad2fcaa6",
+    "gender": "m",
   "_parents": [
     {
       "name": "Virgie Hampton",
       "id": "56d25f0e-7c01-50f9-8dfe-9ed953ea5b33",
+	  "gender": "f",
       "_parents": [
         {
           "name": "Jared Evans",
           "id": "efa251bb-13f7-583d-b5ec-c16f8fcd109f",
+		  "gender": "m",
           "_parents": [
             {
               "name": "Kathryn Hubbard",
               "id": "09b99030-aebb-576f-be3b-6b51a5ea03f7",
+			  "gender": "f",
               "_parents": [
                 {
                   "name": "Louise Olson",
                   "id": "ac8bd81a-0fbf-53d3-872d-f43e18ebf194",
+				  "gender": "f",
                   "_parents": [
                     {
                       "name": "Polly Kelley",
                       "id": "4352b80a-4d80-558b-a506-203acfb87c03",
+					  "gender": "f",
                       "_parents": [
                         {
                           "name": "Chad Dennis",
                           "id": "5268a88e-3340-5768-81a0-8b50a8e2f387",
+						  "gender": "m",
                           "_parents": [
                             {
                               "name": "Stephen Moore",
-                              "id": "3f35f34b-d00e-5563-b109-8cd053a0317a"
+                              "id": "3f35f34b-d00e-5563-b109-8cd053a0317a",
+							  "gender": "m"
                             },
                             {
                               "name": "Lela French",
-                              "id": "96629bb9-2804-5a0c-8bc8-cb032435958a"
+                              "id": "96629bb9-2804-5a0c-8bc8-cb032435958a",
+							  "gender": "f"
                             }
                           ]
                         },
@@ -42,11 +51,13 @@
                           "_parents": [
                             {
                               "name": "Dollie Ross",
-                              "id": "8f85f955-13c3-5cd4-8147-a1bc83e961eb"
+                              "id": "8f85f955-13c3-5cd4-8147-a1bc83e961eb",
+							  "gender": "f",
                             },
                             {
                               "name": "Zachary Henry",
-                              "id": "f3740416-68cd-5c03-9bd3-50a9e79ce739"
+                              "id": "f3740416-68cd-5c03-9bd3-50a9e79ce739",
+							  "gender": "m",
                             }
                           ]
                         }
@@ -55,32 +66,39 @@
                     {
                       "name": "Beatrice Tucker",
                       "id": "3ec85f7e-16e3-5203-8039-2ec3d4944055",
+					  "gender": "m",
                       "_parents": [
                         {
                           "name": "Mitchell Ramsey",
                           "id": "a11731d1-48e0-519a-bc8f-f084bd8fdb56",
+						  "gender": "m",
                           "_parents": [
                             {
                               "name": "Isaiah Weaver",
-                              "id": "87c0ee57-0338-580a-aa9e-12e407411fcf"
+                              "id": "87c0ee57-0338-580a-aa9e-12e407411fcf",
+							  "gender": "m",
                             },
                             {
                               "name": "Francis Sharp",
-                              "id": "273d95bd-5685-5b63-bf20-76cfe0ff4c42"
+                              "id": "273d95bd-5685-5b63-bf20-76cfe0ff4c42",
+							  "gender": "m"
                             }
                           ]
                         },
                         {
                           "name": "Linnie Morales",
                           "id": "caa2036e-6f31-5fb5-81da-874d6d0c34d1",
+						  "gender": "f",
                           "_parents": [
                             {
                               "name": "Beulah Atkins",
-                              "id": "7ba904d9-357c-5bd8-a315-dceb8ca945ae"
+                              "id": "7ba904d9-357c-5bd8-a315-dceb8ca945ae",
+							  "gender": "f",
                             },
                             {
                               "name": "Franklin Payne",
-                              "id": "cf6831cb-a9de-5fd9-afb4-0036cfd669ad"
+                              "id": "cf6831cb-a9de-5fd9-afb4-0036cfd669ad",
+							  "gender": "m",
                             }
                           ]
                         }
@@ -95,18 +113,22 @@
                     {
                       "name": "Louise Gomez",
                       "id": "b2a01844-aa85-5efe-bdb5-e62e351b14a8",
+					  "gender": "m",
                       "_parents": [
                         {
                           "name": "Arthur Johnson",
                           "id": "55f1d6ac-4603-5544-b392-5446c00990a4",
+						  "gender": "m",
                           "_parents": [
                             {
                               "name": "Jerome Hamilton",
-                              "id": "882cb39d-2141-5c45-8879-a152d8075373"
+                              "id": "882cb39d-2141-5c45-8879-a152d8075373",
+							  "gender": "m",
                             },
                             {
                               "name": "Stephen Meyer",
-                              "id": "3b2c0f45-50e0-53c7-a436-2d9620fb937e"
+                              "id": "3b2c0f45-50e0-53c7-a436-2d9620fb937e",
+							  "gender": "m",
                             }
                           ]
                         },
@@ -116,11 +138,13 @@
                           "_parents": [
                             {
                               "name": "Danny Figueroa",
-                              "id": "11faef12-690e-5445-9cf0-5d8dd42dbbda"
+                              "id": "11faef12-690e-5445-9cf0-5d8dd42dbbda",
+							  "gender": "m",
                             },
                             {
                               "name": "Victor Wheeler",
-                              "id": "a38cbd3d-2cc8-5d3e-81f4-0e42d71b397a"
+                              "id": "a38cbd3d-2cc8-5d3e-81f4-0e42d71b397a",
+							  "gender": "m",
                             }
                           ]
                         }

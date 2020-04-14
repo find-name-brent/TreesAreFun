@@ -11,7 +11,7 @@ if(typeof generations === 'undefined'){
   process.exit();
 }
 
-// Int format and descrement by one to account for first person
+// Int format and decrement by one to account for first person
 generations = parseInt(generations, 10) - 1;
 
 var person = generatePerson();

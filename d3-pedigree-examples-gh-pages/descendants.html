@@ -101,7 +101,7 @@ var descendantsTree = d3.layout.tree()
     }
   });
 
-d3.json('data/8gens.json', function(error, json){
+d3.json('data/4gens.json', function(error, json){
   
   if(error) {
     return console.error(error);
@@ -130,6 +130,7 @@ function rootProxy(root){
   return {
     name: root.name,
     id: root.id,
+	gender: root.gender,
     x0: 0,
     y0: 0,
     _children: root._children,
@@ -219,7 +220,7 @@ function draw(source, tree, root, displayClass, direction){
         y: 0,
         width: 0,
         height: 0
-      }).style("fill",  "lightblue");
+      }).style("fill",  function(d){if(d.gender === "m){"return "lightblue";}else{return "red"}));
 
   // Draw the person's name and position it inside the box
   nodeEnter.append("text")
